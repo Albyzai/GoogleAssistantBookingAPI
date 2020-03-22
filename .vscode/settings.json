@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/d0014441-2c1d-470c-b3e7-d8175ffb8a00/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/GoogleAssistantBookingAPI",
+  "appService.deploySubpath": ""
+}
